@@ -83,10 +83,9 @@ Netflix Movies and TV Shows Dataset from Kaggle
 
 
 ---
-
-
-##  Interactive Dashboard
+## 🌐 Interactive Dashboard
 
 Explore the full interactive report on Power BI Service:  
-🔗 **[Click here to view the live dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZThjNmRiYzMtM2ViNy00ZGEy...](https://app.powerbi.com/view?r=eyJrIjoiNjMzODJlMGItNzVhYS00MjE1LThhMDEtY2UzMzZhODczNzlkIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9))**  
+🔗 **[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjMzODJlMGItNzVhYS00MjE1LThhMDEtY2UzMzZhODczNzlkIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)**  
 *(Best viewed on desktop for full interactivity)*
+

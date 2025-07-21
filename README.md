@@ -45,34 +45,22 @@ Using a dataset from **Kaggle**, I built a Power BI report that provides visual 
 
 ---
 
-## 🖼️ Dashboard Screenshots
+## 🖼️ Dashboard 
 
-### 🔹 Page 1 – Overview  
-![Netflix Dashboard Page 1](images/netflix_dashboard_page1.png)
+<img width="761" height="437" alt="Screenshot 2025-07-20 060806" src="https://github.com/user-attachments/assets/e55b716e-d735-4e4c-b5ff-78d9e1197e46" />
+<img width="761" height="429" alt="Screenshot 2025-07-20 060855" src="https://github.com/user-attachments/assets/9ce9a2b7-ca41-4e06-abdb-1f4c634d3408" />
 
-### 🔹 Page 2 – Detailed Insights  
-![Netflix Dashboard Page 2](images/netflix_dashboard_page2.png)
-
----
 
 ## 📂 Dataset Source
 
 Netflix Movies and TV Shows Dataset from Kaggle  
 🔗 [https://www.kaggle.com/datasets/shivamb/netflix-shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
----
 
-## 👩‍💻 Author
+🚀 Explore the Live Dashboard
 
-**Bassant Samy**  
-Junior Data Analyst | ITI Power BI Graduate  
-🔗 [LinkedIn](https://www.linkedin.com/in/bassant-samy)  
-💻 [GitHub](https://github.com/BassantEl-emem)
+🔗 **[View on Power BI Service – Click Here](https://app.powerbi.com/view?Interactive-Dashboard)**  
 
----
 
-## 📥 Project Files
 
-- `Netflix_Analysis.pbix` – Power BI file  
-- `Netflix_Dataset.csv` – Source dataset  
-- `images/` – Dashboard screenshots
+
